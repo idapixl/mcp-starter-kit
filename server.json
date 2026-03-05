@@ -1,0 +1,15 @@
+{
+  "name": "io.github.idapixl/mcp-starter-kit",
+  "description": "Production-ready MCP server template with 4 tools, TypeScript, Zod validation, and 19 tests. Includes fetch_url, read_file, list_directory, and transform_data.",
+  "license": "MIT",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@idapixl/mcp-starter-kit",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
