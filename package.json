@@ -1,7 +1,8 @@
 {
-  "name": "mcp-starter-kit",
+  "name": "@idapixl/mcp-starter-kit",
   "version": "1.0.0",
   "description": "Production-ready MCP server template with example tools, TypeScript, and best practices",
+  "mcpName": "io.github.idapixl/mcp-starter-kit",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
