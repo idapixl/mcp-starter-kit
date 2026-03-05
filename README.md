@@ -2,6 +2,10 @@
 
 A production-ready TypeScript template for building Model Context Protocol (MCP) servers. Skip the boilerplate and ship working tools to Claude and other MCP clients in minutes.
 
+<a href="https://glama.ai/mcp/servers/@idapixl/mcp-starter-kit">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@idapixl/mcp-starter-kit/badge" alt="Starter Kit MCP server" />
+</a>
+
 ## What's included
 
 - **Working MCP server** using the official `@modelcontextprotocol/sdk`
